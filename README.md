@@ -3,7 +3,7 @@ Sources of wisdom and wizardry focusing especially on systems performance
 
 
 
-## Books
+# Books
 
 * [Effective Java](https://www.amazon.co.uk/Effective-Java-Second-Joshua-Bloch/dp/0321356683)
 * [Java concurrency in practice](https://www.amazon.co.uk/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/)
