@@ -117,7 +117,7 @@ Sources of wisdom and wizardry focusing especially on systems performance
 
 
 
-## Java
+# Java
 
 ### Link aggregators / sites
 * [DeepHacks](https://github.com/deephacks/awesome-jvm)
